@@ -50,6 +50,8 @@ RESULT
 ![Alt text](../result/LeafletMapData.png)
 
 
+https://mtanguin.github.io/leaflet_map.github.io/
+
 
 Sources:
 
