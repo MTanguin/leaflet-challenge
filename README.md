@@ -8,7 +8,7 @@ The United States Geological Survey (USGS) plays a crucial role in providing sci
 
 1. Obtain the earthquake dataset:
    - Visit the USGS GeoJSON Feed page, which offers earthquake data in various formats, updated every 5 minutes.
-   - 
+    
   ![Alt text](https://static.bc-edx.com/data/dl-1-2/m15/lms/img/3-Data.jpg)
 
    - Choose a dataset to visualize, such as "All Earthquakes from the Past 7 Days," and access the JSON representation of the data.
