@@ -24,7 +24,7 @@ The United States Geological Survey (USGS) plays a crucial role in providing sci
    - Develop a legend to provide context for the map data, helping users interpret the magnitude and depth representations.
 
 
-## RESULT
+# Results
 
 <img width="1918" alt="LeafletMapData" src="https://user-images.githubusercontent.com/114210481/219541964-da85821f-4b7b-48c0-b371-af50338edb07.png">
 
@@ -34,7 +34,7 @@ The United States Geological Survey (USGS) plays a crucial role in providing sci
 https://mtanguin.github.io/leaflet_map.github.io/
 
 
-Sources:
+### Sources:
 
 http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 https://unpkg.com/leaflet@1.6.0/dist/leaflet.css
